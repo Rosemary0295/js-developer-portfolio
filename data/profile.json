@@ -35,20 +35,27 @@
       "Organização"
     ]
   },
-  "idioma": [
-    "Português BR",
-    "Inglês (básico)"
-  ],
-  "portfolio": [
-    {
-      "name": "Meu Linkedin",
-      "url": "https://www.linkedin.com/in/rosemary-amaral-2908592b1/",
-      "linkedin": true
-    },
-    {
-      "name": "Meu Github",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    }
-  ]
+    "portfolio": [
+      {
+        "name": "Meu Linkedin",
+        "url": "https://www.linkedin.com/in/rosemary-amaral-2908592b1/",
+        "linkedin": true
+      },
+      {
+        "name": "Meu Github",
+        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "github": true
+      }
+    ],
+
+    "formação": [
+      "Analise e Desenvolvimento de Sistemas",
+      "Desennvolvimento Web (front-end)"
+    ],
+
+    "idioma": [
+      "Português BR",
+      "Inglês (básico)"
+    ]
+ 
 }
